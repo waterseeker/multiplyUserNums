@@ -1,0 +1,8 @@
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/bin/Debug/netcoreapp1.1/multiplyUserNums.deps.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/bin/Debug/netcoreapp1.1/multiplyUserNums.runtimeconfig.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/bin/Debug/netcoreapp1.1/multiplyUserNums.runtimeconfig.dev.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/bin/Debug/netcoreapp1.1/multiplyUserNums.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/bin/Debug/netcoreapp1.1/multiplyUserNums.pdb
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/obj/Debug/netcoreapp1.1/multiplyUserNums.AssemblyInfo.cs
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/obj/Debug/netcoreapp1.1/multiplyUserNums.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplyUserNums/obj/Debug/netcoreapp1.1/multiplyUserNums.pdb
